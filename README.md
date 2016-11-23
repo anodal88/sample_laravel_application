@@ -5,10 +5,15 @@ The main purpose of this repository is share code with another people, that want
 In this sample code exist integration with third party vendors such as: 
 
 ZIZACO: For user management and security
+
 NETSHELL and PAYPAL SDK: For integration with differents paypal's Rest APIS
+
 YAJRA: For DataTables use 
+
 INTERVENTION: To handle images in captcha recovery Password use case
+
 ACACHA: For adminLTE theme 
+
 AWS SDK: To work with amazon S3 Storage
 
 Note: This code is BackEnd of a Mobile Application and has your own BackEnd User Interfaces Administration, but is not complete yet.
